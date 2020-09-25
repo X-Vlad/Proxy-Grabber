@@ -1,7 +1,7 @@
 <?php
 /* Getting working proxy servers according to the list of URl sites with proxy lists.
  * Author:   X-Vlad
- * Website: https://x-vlad.ru
+ * Website: https://github.com/X-Vlad/Proxy-Grabber/
  * Date:    20.09.2020
 */
 
