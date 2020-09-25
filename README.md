@@ -1,4 +1,4 @@
-# Proxy-Grabber
+# Multi-threaded Proxy-Grabber
 
 [![](https://img.shields.io/github/release/X-Vlad/Proxy-Grabber.svg)](https://github.com/X-Vlad/Proxy-Grabber/releases/)
 [![](https://img.shields.io/github/license/X-Vlad/Proxy-Grabber.svg)](https://github.com/X-Vlad/Proxy-Grabber/blob/master/LICENSE)
