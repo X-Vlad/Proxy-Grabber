@@ -6,19 +6,22 @@
 
 PHP Script Proxy Grabber
 
-Multi-threaded proxy grabber
+Multi-threaded proxy grabber (Многопоточный прокси граббер)
 
 ### Installation
-Download or clone this repo.
+Download or clone this repo. (Скачайте или клонируйте данный репозиторий).
 
-Install PHP Curl Class with Composer:
+Install PHP Curl Class with Composer: (Установите PHP Curl Class с помощью Composer)
 
     $ composer require php-curl-class/php-curl-class
 
-### Requirements
+### Requirements (Требования)
 
 PHP 7.2+, PHP Curl Class.
 
-### Quick Start
-    Enter the URL in the file url.txt
+### Quick Start (Быстрый старт)
+    Enter the URLs in the file url.txt
     Open the index.php file in a browser or run it via the command line.
+    
+    Введите URL-адреса в файл url.txt
+    Откройте файл index.php в браузере или запустите его из командной строки.
