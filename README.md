@@ -2,7 +2,6 @@
 
 [![](https://img.shields.io/github/release/X-Vlad/Proxy-Grabber.svg)](https://github.com/X-Vlad/Proxy-Grabber/releases/)
 [![](https://img.shields.io/github/license/X-Vlad/Proxy-Grabber.svg)](https://github.com/X-Vlad/Proxy-Grabber/blob/master/LICENSE)
-[![](https://img.shields.io/travis/X-Vlad/Proxy-Grabber.svg)](https://travis-ci.com/github/X-Vlad/Proxy-Grabber/)
 [![](https://img.shields.io/packagist/dt/X-Vlad/Proxy-Grabber.svg)](https://github.com/X-Vlad/Proxy-Grabber/releases/)
 
 PHP Script Proxy Grabber
